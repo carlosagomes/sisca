@@ -1,7 +1,11 @@
 # lojong-backend
 
 Olá seja bem vindo a Documentação da Lojong API.
+
 Esse projeto consistente na administração do *ADMIN PAINEL* e a *API* que os Apps consomem dados.
+
+Esse projeto utiliza as seguinte tecnologias PHP,MYSQL,LARAVEL,REST
+
 
 
 ## Observações para a criação de tarefas
@@ -18,10 +22,16 @@ O deploy da *master* enviar para o servidor de *prodution*.
 
 
 ## Instalação e funcionamento
-
-* Install vendor packages: `$ composer install`
-* Run local web-server: `$ php artisan serve`
-* Access local instance: http://localhost:8000
+ Para melhor funcionamento dessa aplicação recomenda-se a utilização de DOCKER já configurado com todos os pacotes necessários, conforme destrito no seguinte projeto [LOJONG-DOCKER-DEV]( https://github.com/lojongapp/lojong-docker-dev).
+ 
+ Pode ser instalado manualmente com os seguintes pré requisitos. 
+ 
+* PHP 7.3
+* MYSQL 5.7
+* REDIS
+* Instalação vendor packages: `$ composer install`
+* Executar local web-server: `$ php artisan serve`
+* Acessar local instance: http://localhost:8000
 
 ## Deployment
 
