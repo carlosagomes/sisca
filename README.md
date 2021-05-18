@@ -22,7 +22,7 @@ O deploy da *master* enviar para o servidor de *prodution*.
 
 
 ## Instalação e funcionamento
- Para melhor funcionamento dessa aplicação recomenda-se a utilização de DOCKER já configurado com todos os pacotes necessários, conforme destrito no seguinte projeto [LOJONG-DOCKER-DEV]( https://github.com/lojongapp/lojong-docker-dev).
+ Para melhor funcionamento dessa aplicação recomenda-se a utilização de *DOCKER* já configurado com todos os pacotes necessários, conforme descrito no seguinte projeto [LOJONG-DOCKER-DEV]( https://github.com/lojongapp/lojong-docker-dev).
  
  Pode ser instalado manualmente com os seguintes pré requisitos. 
  
